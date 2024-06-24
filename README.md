@@ -1,34 +1,36 @@
 # Smart Contract Audit Reports
 
-Welcome to the Smart Contract Audit Reports repository by [Your Name]. This repository contains a collection of audit reports that assess the security and functionality of various smart contracts. Each audit report provides insights into vulnerabilities discovered during the assessment and includes recommendations for improving the smart contract's security posture.
+Hey there! Welcome to my Smart Contract Audit Reports repository. This is where I've compiled all my audit reports assessing the security and functionality of various smart contracts. You'll find insights into vulnerabilities we've uncovered during our assessments, along with recommendations to beef up the security of these contracts.
+
+> This is a work in progress. I am a full time Solidity developer but have been making contracts for employers and have not had the time to perform audits regularly. That is about to change, and you can expect more reports to be added soon.
 
 ## About the Reports
 
-I have authored these audit reports. The reports are intended to help developers, auditors, and blockchain enthusiasts understand potential security issues within smart contracts and adopt best practices for secure smart contract development.
+I'm Jason Schwarz, and I've authored these audit reports to help developers, auditors, and blockchain enthusiasts grasp potential security issues in smart contracts. My goal is to promote best practices for secure smart contract development through these findings.
 
-## Repository Structure
+## What's Inside?
 
-- Each audit report is structured to provide:
+- Each audit report dives deep into:
   - Detailed analysis of smart contract functionalities.
   - Identification of vulnerabilities and potential exploits.
-  - Recommendations and best practices for improving security.
-  - Code snippets illustrating identified issues (if applicable).
-  
-## How to Use
+  - Recommendations and best practices to enhance security.
+  - Sometimes, I even throw in code snippets to illustrate identified issues!
 
-Developers and auditors can leverage these audit reports to:
-- Gain insights into common security vulnerabilities in smart contracts.
-- Implement robust security measures during smart contract development.
-- Learn from real-world examples of security audits conducted by Jason Schwarz.
+## How to Use Them
 
-## Contribution
+Developers and auditors can use these reports to:
+- Understand common security pitfalls in smart contracts.
+- Implement strong security measures during their contract development.
+- Get insights from real-world examples of audits carried out by yours truly, Jason Schwarz.
 
-If you find any issues with the audit reports or have suggestions for improvement, please feel free to [open an issue](link-to-issues) or submit a pull request. Your contributions are valuable in maintaining the accuracy and relevance of these audit reports.
+## Contributing
 
-## Contact
+If you spot any issues in the audit reports or have suggestions for improvements, please don't hesitate to [open an issue](link-to-issues) or send in a pull request. Your contributions help maintain the accuracy and relevance of these reports.
 
-For inquiries related to these audit reports or collaboration opportunities, you can reach out  via [email](jason.c.schwarz@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jason-schwarz-75b91482/).
+## Get in Touch
+
+Got questions about these audit reports or interested in collaborating? Reach out to me via [email](mailto:jason.c.schwarz@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/jason-schwarz-75b91482/).
 
 ---
 
-Thank you for visiting the Smart Contract Audit Reports repository. We hope these audit reports contribute to enhancing the security of smart contracts in the blockchain ecosystem.
+Thanks for checking out my Smart Contract Audit Reports repository. I hope these reports play a role in boosting the security of smart contracts across the blockchain ecosystem!
