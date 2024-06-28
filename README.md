@@ -1,5 +1,7 @@
 # Smart Contract Audit Reports
 
+> Next Audit: [TempleDAO](https://www.codehawks.com/contests/clxyjvjkg0007isl3p290etog)
+
 Hey there! Welcome to my Smart Contract Audit Reports repository. This is where I've compiled all my audit reports assessing the security and functionality of various smart contracts. You'll find insights into vulnerabilities we've uncovered during our assessments, along with recommendations to beef up the security of these contracts.
 
 > This is a work in progress. I am a full time Solidity developer but have been making contracts for employers and have not had the time to perform audits regularly. That is about to change, and you can expect more reports to be added soon.
